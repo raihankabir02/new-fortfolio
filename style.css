@@ -31,3 +31,11 @@ section.container {
 .orange-color{
     color: orangered;
 }
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10px;
+    background-image: linear-gradient(blue , yellow);
+    font-weight: 700;
+}
